@@ -1,0 +1,18 @@
+.weather {
+    text-align: center;
+    height: 175px;
+    width: 125px;
+    background-color: rgba(34, 34, 34, 0.5);
+    color: whitesmoke;
+    margin: 30px 10px 20px 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.line-seperator {
+    color: whitesmoke;
+    height: 2px;
+    opacity: 0.5;
+    background: whitesmoke;
+    margin: 0 auto;
+}
