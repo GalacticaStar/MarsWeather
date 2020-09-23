@@ -8,9 +8,6 @@ In order to use this app, you must first generate your own personal Access Token
 With an Access Token in hand navigate to src/Insight/Insight.js and paste this in the accessToken variable. The app is now ready to use.
 
 
-#####################################################################################################
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
