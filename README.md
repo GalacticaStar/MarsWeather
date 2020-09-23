@@ -1,3 +1,14 @@
+## Elysium Planitia
+
+Using NASA's Insight API and React, I created a Martian Weather App.
+In order to use this app, you must first generate your own personal Access Token. This can be done free from - https://api.nasa.gov/
+
+## Use
+
+With an Access Token in hand navigate to src/Insight/Insight.js and paste this in the accessToken variable. The app is now ready to use.
+
+
+#####################################################################################################
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
