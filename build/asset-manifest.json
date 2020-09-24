@@ -5,18 +5,18 @@
     "main.js.map": "/MarsWeather/static/js/main.ccc8de02.chunk.js.map",
     "runtime-main.js": "/MarsWeather/static/js/runtime-main.225bc7f5.js",
     "runtime-main.js.map": "/MarsWeather/static/js/runtime-main.225bc7f5.js.map",
-    "static/js/2.0feb048a.chunk.js": "/MarsWeather/static/js/2.0feb048a.chunk.js",
-    "static/js/2.0feb048a.chunk.js.map": "/MarsWeather/static/js/2.0feb048a.chunk.js.map",
+    "static/js/2.576bad8a.chunk.js": "/MarsWeather/static/js/2.576bad8a.chunk.js",
+    "static/js/2.576bad8a.chunk.js.map": "/MarsWeather/static/js/2.576bad8a.chunk.js.map",
     "index.html": "/MarsWeather/index.html",
-    "precache-manifest.b6ff18ac2f5cbaa1f85a839af5ac7a06.js": "/MarsWeather/precache-manifest.b6ff18ac2f5cbaa1f85a839af5ac7a06.js",
+    "precache-manifest.286109cf9c63a93e70fcc9a70d6606c1.js": "/MarsWeather/precache-manifest.286109cf9c63a93e70fcc9a70d6606c1.js",
     "service-worker.js": "/MarsWeather/service-worker.js",
     "static/css/main.140208b6.chunk.css.map": "/MarsWeather/static/css/main.140208b6.chunk.css.map",
-    "static/js/2.0feb048a.chunk.js.LICENSE.txt": "/MarsWeather/static/js/2.0feb048a.chunk.js.LICENSE.txt",
+    "static/js/2.576bad8a.chunk.js.LICENSE.txt": "/MarsWeather/static/js/2.576bad8a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/MarsWeather/static/media/Mars InSight Landing Site.b4b24e9f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.225bc7f5.js",
-    "static/js/2.0feb048a.chunk.js",
+    "static/js/2.576bad8a.chunk.js",
     "static/css/main.140208b6.chunk.css",
     "static/js/main.ccc8de02.chunk.js"
   ]
