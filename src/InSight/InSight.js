@@ -1,5 +1,5 @@
 // Retrieve your Access Token from NASA's Insight Pages for free.
-const accessToken = ''; //Your Access Token here.
+const accessToken = 'l6HOudBAKvL1AHq28kh06WDtm5IwT28djCHNG2gZ'; //Your Access Token here.
 let jsonResponse;
 
 export const Insight =  {
