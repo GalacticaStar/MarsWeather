@@ -1,4 +1,4 @@
-## Elysium Planitia
+## About Elysium Planitia
 
 Using NASA's Insight API and React, I created a Martian Weather App.
 
